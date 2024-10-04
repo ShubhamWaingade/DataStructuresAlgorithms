@@ -1,0 +1,3 @@
+Here the sliding window apporach is being used.
+We need the duplicate elements indices only if they are lest than k length appart
+Hence a window of length k is kept track of during a for loop iteratition
